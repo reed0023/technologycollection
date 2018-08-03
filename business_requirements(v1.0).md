@@ -68,7 +68,7 @@ Provide a token to crypto enthusiasts that is backed by the best blockchain tech
         - Create Discussion
           - Text-based Title & Body
           - Comment section
-           - Text-based reply
+           * Text-based reply
            - Additional features TBD (uploading content, upvote/downvote)
         - Archive Discussions
         - Add/delete "Avatar" picture
@@ -76,17 +76,17 @@ Provide a token to crypto enthusiasts that is backed by the best blockchain tech
     - Application-to-Contract Optimization
       - Application
         - Permission-based feature-set
-          - Create
+         - Create
            - Multi-page
            - Customizable # of questions/page
            - Save unfinished application
-          - Edit
-          - Answer
-           - Save progress
-          - Publish
-           - Enables approval vote
-           - Creates Smart Contract Version of the Application
-           - Optimizes storage of input fields
+         - Edit
+         - Answer
+            - Save progress
+         - Publish
+            - Enables approval vote
+            - Creates Smart Contract Version of the Application
+            - Optimizes storage of input fields
         - Question & Answer Formatting
         - Question: Available fields
           - Text
