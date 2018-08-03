@@ -92,12 +92,12 @@ Provide a token to crypto enthusiasts that is backed by the best blockchain tech
           - Text
         - Answer: Available fields
           - Input fields
-           - int
-           - string
+            - int
+            - string
           - Multiple choice
-           - Radio
-           - Select only one
-           - Select multiple at-a-time
+            - Radio
+            - Select only one
+            - Select multiple at-a-time
           - Date
       - Optimization
         - Custom Applications to be submitted/created by the DAO go through a proprietary Application-to-Contract Optimizer.
