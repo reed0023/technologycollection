@@ -1,21 +1,20 @@
 ## Business Requirements:
 *Written and developed by @reed0023 & @tomtom87 for the Technology Collection DAO*
 
-Latest Update: *6.19.21*
+Latest Update: *3.8.18*
 
 *This document is meant to serve as a guide of V1 business requirements proposed by TechCollect. Features, delivery dates, 
-and specifics are subject to change based on the immediate needs of the Organization. Please contact @reed0023 or @tomtom87 for questions
-related to deliverables.*
+and specifics are subject to change based on the immediate needs of the Organization. Please contact @reed0023 or @tomtom87 for questions related to deliverables.*
 
 ### Summary: 
-Developing the V1 framework for the Technology Collection - a Decentralized Autonomous Organization
+Developing the V1 business requirement framework for the Technology Collection - a Decentralized Autonomous Organization
 
 ### Purpose:
 Provide a token to crypto enthusiasts that is backed by the best blockchain technologies, as voted on by the Community of Token Holders
 
-### Objectives: 
+### V1 Objectives: 
 
-- [ ] 1. Deploy a DAO using the Aragon One Project to the Ethereum Virtual Machine
+- [ ] 1. Deploy a DAO using the Aragon One Project to the Ethereum Virtual Machine (Main Net)
 - [ ] 2. Accept 1 ETH from Launch Team 
     - .2 ETH from each individual 
 - [ ] 3. Distribute One TECO Token each individual on the Launch Team
@@ -27,10 +26,12 @@ Provide a token to crypto enthusiasts that is backed by the best blockchain tech
 - [ ] 4. Hold an inaugural vote for Launch Team
     - Launch Team Proposal for positions
 
-### Scope
+### V1 Scope
+ 
  1. V1 to include:
     - Voting
       - Yes/No Voting for Token Holders on Proposals
+    
     - Proposals
       - Create Proposal
         - Text-based Title & Body
@@ -68,13 +69,44 @@ Provide a token to crypto enthusiasts that is backed by the best blockchain tech
           - Text-based Title & Body
           - Comment section
            - Text-based reply
+           - Additional features TBD (uploading content, upvote/downvote)
         - Archive Discussions
         - Add/delete "Avatar" picture
+        
+    - Application-to-Contract Optimization
+      - Application
+        - Permission-based feature-set
+          - Create
+           - Multi-page
+           - Customizable # of questions/page
+           - Save unfinished application
+          - Edit
+          - Answer
+           - Save progress
+          - Publish
+           - Enables approval vote
+           - Creates Smart Contract Version of the Application
+           - Optimizes storage of input fields
+        - Question & Answer Formatting
+        - Question: Available fields
+          - Text
+        - Answer: Available fields
+          - Input fields
+           - int
+           - string
+          - Multiple choice
+           - Radio
+           - Select only one
+           - Select multiple at-a-time
+          - Date
+      - Optimization
+        - Custom Applications to be submitted/created by the DAO go through a proprietary Application-to-Contract Optimizer.
+          This Optimizer will take in the varying answer fields in the Application, and create a custom Smart Contract that
+          optimizes for storage.
         
  2. V2 to include:
     - Vault
       - Accept two different Tokens
         - Tokens TBD
-    - ACL
     - Radspec (Human-readable Transactions)
     - TECO Token Waitlist
