@@ -25,6 +25,7 @@ Provide a token to crypto enthusiasts that is backed by the best blockchain tech
     - Community Leader
 - [ ] 4. Hold an inaugural vote for Launch Team
     - Launch Team Proposal for positions
+- [ ] 5. Create an Application for Smart Contract Conversion
 
 ### V1 Scope
  
@@ -92,12 +93,12 @@ Provide a token to crypto enthusiasts that is backed by the best blockchain tech
           - Text
         - Answer: Available fields
           - Input fields
-            - int
-            - string
+            - Int
+            - String
           - Multiple choice
             - Radio
             - Select only one
-            - Select multiple at-a-time
+            - Select multiple
           - Date
       - Optimization
         - Custom Applications to be submitted/created by the DAO go through a proprietary Application-to-Contract Optimizer.
