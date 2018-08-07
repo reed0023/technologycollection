@@ -1,7 +1,7 @@
 ## Business Requirements:
 *Written and developed by @reed0023 & @tomtom87 for the Technology Collection DAO*
 
-Latest Update: *3.8.18*
+Latest Update: *7.8.18*
 
 *This document is meant to serve as a guide of V1 business requirements proposed by TechCollect. Features, delivery dates, 
 and specifics are subject to change based on the immediate needs of the Organization. Please contact @reed0023 or @tomtom87 for questions related to deliverables.*
