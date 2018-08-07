@@ -10,7 +10,7 @@ specifics are subject to change based on the immediate needs of the Organization
 
 - [ ] 1. Deploy a DAO using the Aragon One Project to the Rinkeby Test Network
     - CEO to officially "deploy" the organization
-- [ ] 2. Distribute One TECO Token each individual on the Launch Team
+- [ ] 2. Distribute One TECO Token to each individual on the Launch Team
     - CEO (JT Ianelli)
       - Address [ ]
     - CTO (Tom Whitbread)
