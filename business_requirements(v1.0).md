@@ -69,26 +69,27 @@ Provide a token to crypto enthusiasts that is backed by the best blockchain tech
         - Create Discussion
           - Text-based Title & Body
           - Comment section
-           * Text-based reply
-           - Additional features TBD (uploading content, upvote/downvote)
+          - Text-based reply
+          - Additional features TBD (uploading content, upvote/downvote)
         - Archive Discussions
         - Add/delete "Avatar" picture
         
-    - Application-to-Contract Optimization
-      - Application
-        - Permission-based feature-set
+    - Application Creation & Answer
+      - Applications are a modularly built dApp that allow any DAO to mirror applications or registrations in writing. This simple Q&A Form is intended to be expanded into to include other use cases in the future, but V1 scope is limited to the functions below:
          - Create
-           - Multi-page
-           - Customizable # of questions/page
+           - Multi-page (each page will have Page Title/Header, as well as page number)
+           - Customizable # of questions/page (up to 30 Qs/page)
+            - Add Question
+            - Edit Question
+            - Copy Question
+            - Delete Question
            - Save unfinished application
-         - Edit
-         - Answer
-            - Save progress
+         - Edit (unpublished Application)
          - Publish
             - Enables approval vote
             - Creates Smart Contract Version of the Application
             - Optimizes storage of input fields
-        - Question & Answer Formatting
+        - Question & Answer Options:
         - Question: Available fields
           - Text
         - Answer: Available fields
@@ -100,6 +101,7 @@ Provide a token to crypto enthusiasts that is backed by the best blockchain tech
             - Select only one
             - Select multiple
           - Date
+          - Signature (TBD)
       - Optimization
         - Custom Applications to be submitted/created by the DAO go through a proprietary Application-to-Contract Optimizer.
           This Optimizer will take in the varying answer fields in the Application, and create a custom Smart Contract that
