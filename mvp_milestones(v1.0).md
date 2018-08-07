@@ -11,13 +11,13 @@ specifics are subject to change based on the immediate needs of the Organization
 - [ ] 1. Deploy a DAO using the Aragon One Project to the Rinkeby Test Network
     - CEO to officially "deploy" the organization
 - [ ] 2. Distribute One TECO Token to each individual on the Launch Team
-    - CEO (JT Ianelli)
+    - CEO (@jtianelli)
       - Address [ ]
-    - CTO (Tom Whitbread)
+    - CTO (@tomtom87)
       - Address [ ]
     - CFO (Muhammad Azam)
       - Address [ ]    
-    - COO (Stephen Reed)
+    - COO (reed0023)
       - Address [0x0bF1c834f7fDb9fA1Ad0b028094cD621943230B3]    
     - Community Leader (Derek)
       - Address [ ]
@@ -25,9 +25,10 @@ specifics are subject to change based on the immediate needs of the Organization
     - Launch Team Proposal for positions
 - [ ] 4. Hold a vote to "Create an Application"
     - Permission limited to CEO
-- [ ] 5. Create a new "Application" using the dApp developed by TECO
+- [ ] 5. Create a new "Application" using the dApp developed by TECO (see Business & Tech Requirements Documentation for further detail)
     - Permission limited to CEO, if, and only if, the DAO Approves of the "Create an Application" Vote
     - Application should mimic the Malta Digital Innovation Authority Application
 - [ ] 6. Fill out & Submit Application for Org Approval
     - Must retain >50% of the vote to approve
 - [ ] 7. Partner w/ Business to Print & Ship to Desired Address
+    - Ship to CEO (@jtianelli as proof of concept)
