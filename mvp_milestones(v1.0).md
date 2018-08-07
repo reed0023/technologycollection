@@ -17,7 +17,7 @@ specifics are subject to change based on the immediate needs of the Organization
       - Address [ ]
     - CFO (Muhammad Azam)
       - Address [ ]    
-    - COO (reed0023)
+    - COO (@reed0023)
       - Address [0x0bF1c834f7fDb9fA1Ad0b028094cD621943230B3]    
     - Community Leader (Derek)
       - Address [ ]
