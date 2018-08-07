@@ -21,7 +21,7 @@ specifics are subject to change based on the immediate needs of the Organization
       - Address [0x0bF1c834f7fDb9fA1Ad0b028094cD621943230B3]    
     - Community Leader (Derek)
       - Address [ ]
-- [ ] 23. Hold an inaugural vote for Launch Team
+- [ ] 3. Hold an inaugural vote for Launch Team
     - Launch Team Proposal for positions
 - [ ] 4. Hold a vote to "Create an Application"
     - Permission limited to CEO
