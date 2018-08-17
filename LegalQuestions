@@ -1,5 +1,5 @@
 A collection of reference questions pulled from the proposed EU Digital Legal Personality Registration
-(completion percentage: 5%)
+(completion percentage: 10%)
 
 Section 1 - White Paper Compliance 
 
@@ -56,6 +56,49 @@ Section 1 - White Paper Compliance
   Is there a clear and well thought out analysis of challenges and risks for achieving tghe stated purpose of the organization?
   y or n
   If not include the technology specific disclaimer of challenges and risks.
+  
+  Is there a detailed description of the charecteristics and the functionality being offered.
+  y or n
+  If not include charecteristics and functionality of any tokens of virtual financial assets owned or controlled by 
+  the technology arrangement.
+  
+  Does the white paper list who issues the token or virtual financial assets?
+  y or n
+  If not list issuer(s)
+  
+  Does the white paper include names of the development team?
+  y or n
+  If not list development team members.
+  
+  Does the white paper list any formal advisors?
+  y or n
+  If n follow up question
+   Does the the applicant have any formal adivsors?
+   y or n
+   If yes then include formal advisors in the white paper
+   
+  Does the white paper list any service providers whom it depend on to perform tasks for applicant?
+  y or n
+  If no include names of any and all service providers
+  *Note* in all situations there should be at least one an independent systems auditor, typically there will be more than one.
+  
+  Is there a detailed description of the type and of wallet(s) used by any issuers? (only if yes to issuers)
+  y or n
+  if n provide detailed description of issuers wallet type.
+  
+  Is there a detailed description of the security methods in place to protect issuers wallet(s)
+  y or n
+  If no provide description of security measures taken to protect issuers wallet(s)
+  
+  Are tbere security measure taken to protect the integrity of the protocol against cyber attacks or hacks which
+  is consistant with industry best practices?
+  y or n
+  Incliude description of protocl security measure and methods for protecting integrity of the protocol.
+  
+  Are there any activities that take place off the blockchain listed in the white paper?
+  y or n
+  If yes follow up question
+  
 
 
 
