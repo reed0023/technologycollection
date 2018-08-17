@@ -38,44 +38,44 @@ Desired Application Components:
 1. Applications Homepage	
   - Create New Application → Application Builder
     - Edit Title
-Add Page (one page default)
-Edit Title
-Delete Page
-Are you sure?
-OK/Cancel
-Add Question
-Text field
-Character limit TBD
-Delete Question
-Are you sure?
-OK/Cancel
-Edit Question
-OK/Cancel
-Add Answer
-Text Input field
-Character limit TBD
-Integers
-Date
-Currency
-Multiple Choice - Radio Buttons
-Select One
-Select Multiple
-Signature
-Initial
-Next/Previous Page
-Skip to specific page
-Edit Unpublished Application → Application Builder
-Delete Unpublished Application
-Are you sure?
-OK/Cancel
-View Published Application
-Fill Out Application (from the User’s/DAO’s perspective)
-Save Progress
-Next/Previous Page
-Skip to specific page
-Publish
-Are you sure?
-OK/Cancel
-View Completed Application
-Smart Contract Details
-TBD
+  - Add Page (one page default)
+    - Edit Title
+  - Delete Page
+    - Are you sure?
+      - OK/Cancel
+  - Add Question
+    - Text field
+      - Character limit TBD
+  - Delete Question
+    - Are you sure?
+      - OK/Cancel
+  - Edit Question
+    - OK/Cancel
+  - Add Answer
+    - Text Input field
+  - Character limit TBD
+    - Integers
+    - Date
+    - Currency
+    - Multiple Choice - Radio Buttons
+      - Select One
+      - Select Multiple
+    - Signature
+    - Initial
+  - Next/Previous Page
+    - Skip to specific page
+  - Edit Unpublished Application → Application Builder
+  - Delete Unpublished Application
+    - Are you sure?
+      - OK/Cancel
+ - View Published Application
+ - Fill Out Application (from the User’s/DAO’s perspective)
+    - Save Progress
+    - Next/Previous Page
+      - Skip to specific page
+    - Publish
+      - Are you sure?
+        - OK/Cancel
+  - View Completed Application
+  - Smart Contract Details
+  - TBD
