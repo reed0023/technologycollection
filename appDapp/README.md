@@ -1,44 +1,81 @@
-# Aragon React Kit Boilerplate
+## appdApp
 
-> 🕵️ [Find more boilerplates using GitHub](https://github.com/search?q=topic:aragon-boilerplate) | 
-> ✨ [Official boilerplates](https://github.com/search?q=topic:aragon-boilerplate+org:aragon)
+### Summary:
 
-React boilerplate for Aragon applications.
+The following documentation serves as a first draft for development bounty, as referenced in the Blockternship Grant. Deliverables, dates, features, and functions are subject to change, based on the needs of the DAO. Please contact @reed0023, @tomtom87, or @jtianelli with any questions or concerns. 
 
-This boilerplate also includes a fully working example app, complete with a background worker and a front-end in React (with Aragon UI).
+#### Name: 
 
-## Usage
+appdApp, the dApp for Applications (working title)
 
-Kit support requires using the Aragon CLI with a version greater than 4.1.0.
-```sh
-npm install -g @aragon/cli
-aragon init app aragon/aragon-react-kit-boilerplate
-```
+#### Offered by: 
 
-## Make the kit work with your app
+The Technology Collection
 
-- In order for the kit to work properly, it needs to know what the name of your app is. Replace `app` in [this line](https://github.com/aragon/aragon-react-kit-boilerplate/blob/dd7d571da4ab1ee6a0a82130b0c2c5d6218771b6/contracts/Kit.sol#L58) with the name of your app in the `arapp.json` file (e.g. `myapp` for `myapp.aragonpm.eth`)
+#### Abstract:
 
-- Edit the roles defined in the kit to configure your DAO as you want!
+AppdApp is a modular dApp that allows DAOs to create their own Question and Answer Applications (use cases may include, but are not limited to: contracts, registrations, applications, surveys, grants, etc.). Once a DAO’s Application is published, it may be filled out by the Organization. Completed Applications are converted into Smart Contracts and deployed to the Ethereum Virtual Machine. 
 
-## Run the kit
+Developer Needs:
 
-```sh
-aragon run --kit Kit --kit-init @ARAGON_ENS
-```
+ - React Components for Application Creation UI
+ - UX Considerations WIP
 
-## What's in the box?
+Total Bounty Offered: 
 
-### npm Scripts
+ - 2 ETH
 
-- **start**: Run the app locally
-- **compile**: Compile the smart contracts
-- **build**: Compiles the contracts and builds the front-end
-- **test**: Runs tests for the contracts
-- **publish**: Builds the apps and the contracts and publishes them to IPFS and APM
+UX Benchmark: 
 
-### Libraries
+ - Google Forms
 
-- [**@aragon/os**](https://github.com/aragon/aragonos): Aragon interfaces
-- [**@aragon/client**](https://github.com/aragon/aragon.js/tree/master/packages/aragon-client): Wrapper for Aragon application RPC
-- [**@aragon/ui**](https://github.com/aragon/aragon-ui): Aragon UI components (in React)
+High Level Application Stage Flowchart:
+
+New Application → Unpublished Application → Published Application → Completed Application
+
+Desired Application Components:
+
+1. Applications Homepage	
+  - Create New Application → Application Builder
+    - Edit Title
+Add Page (one page default)
+Edit Title
+Delete Page
+Are you sure?
+OK/Cancel
+Add Question
+Text field
+Character limit TBD
+Delete Question
+Are you sure?
+OK/Cancel
+Edit Question
+OK/Cancel
+Add Answer
+Text Input field
+Character limit TBD
+Integers
+Date
+Currency
+Multiple Choice - Radio Buttons
+Select One
+Select Multiple
+Signature
+Initial
+Next/Previous Page
+Skip to specific page
+Edit Unpublished Application → Application Builder
+Delete Unpublished Application
+Are you sure?
+OK/Cancel
+View Published Application
+Fill Out Application (from the User’s/DAO’s perspective)
+Save Progress
+Next/Previous Page
+Skip to specific page
+Publish
+Are you sure?
+OK/Cancel
+View Completed Application
+Smart Contract Details
+TBD
