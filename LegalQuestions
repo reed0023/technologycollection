@@ -90,14 +90,74 @@ Section 1 - White Paper Compliance
   y or n
   If no provide description of security measures taken to protect issuers wallet(s)
   
-  Are tbere security measure taken to protect the integrity of the protocol against cyber attacks or hacks which
-  is consistant with industry best practices?
+  Are there security measure listed in the white paper which are taken to protect the integrity of the protocol against 
+  cyber attacks or hacks which is consistant with industry best practices?
   y or n
-  Incliude description of protocl security measure and methods for protecting integrity of the protocol.
+  If no include description of protocol security measure and methods for protecting integrity of the protocol.
   
   Are there any activities that take place off the blockchain listed in the white paper?
   y or n
-  If yes follow up question
+  If no follow up question
+  Do any activities take place off ot the blockchain?
+  y or n 
+  if yes explain procedure and persons or organizations responsible for procedures which occur off of the blockchain.
+  
+  Does the white paper include a detailed description of the life cycle of the initial virtual financial asset offering and
+  the proposed project?
+  y or n
+  If n include anticipated project length, maturity length, and any other timelines as is relevant with regard to the offering
+  
+  Is there a detailed description of future milestones?
+  y or n
+  If no include list of future milestones
+  
+  Is there a detailed description stating how the project has been and will continue to be financed
+  y or n
+  If no include description of sources of financing and funding method for continued opporations for the duration of the 
+  life cycle of the product or offering
+  
+  Are there details regarding targeted purchasers, acquirers, holders, or investors in the platform and its token?
+  y or n
+  If not include targeted audience, consumer, investor, etc.
+  
+  Is there a description of the manner funds raised through the initial virtual financial asset offering
+  will be allocated?
+  y or n
+  If n include such description fo how any funds raised will be allocated
+  
+  Is there a the detailed description of total number of virtual financial assets to be issued (hard cap/soft cap) if applicable?
+  y or n
+  If not include min/max supply information
+  
+  Is there a detailed description of how and when any tokens or virtual financial assets will be distributed?
+  y or n
+  if n then include distribution information
+  
+  Is there a description of the concensus algorithem used by the protocol (if applicable)
+  y or n
+  if no include cryptographic hash concensus algorithem type
+  
+ Is there a detailed description of any incentive mechanisms used to secure any transactions(mining), transaction and/ or any other applicable
+ fees; as well as a best estimated of the speed of transactions?
+ y or n
+ If no include information about transaction processing, mining, and transaction/network speeds.
+ 
+ Is tax information clearly laid out?
+ *Note* Organization and persons which earn money, assets or value in any jurisdiction pay taxes.  
+  y or n
+  If no include tax structure for the organiztion.
+  
+  Does the whitepaper state the period for which the offer is open or available?
+  y or n
+  if n include token sale duration or other offer type timeframe
+  
+  
+  
+
+
+
+
+  
   
 
 
