@@ -1,0 +1,70 @@
+Applications Homepage
+ Create New Application → Application Builder 
+Edit Title
+Title [FITA Application]
+
+Add Page (one page default) 
+Edit Title
+Title [Page 1. User Details]
+  Add Question Text field Character limit TBD
+  PREFIX
+  Add Question Text field Character limit TBD
+  NAME 
+  Add Question Text field Character limit TBD
+  SURNAME
+  Add Question Text field Character limit TBD
+  POSITION
+  Add Question Text field Character limit TBD
+  USER TYPE
+  Add Question Text field Character limit TBD
+  EMAIL
+  Add Question Text field Character limit TBD
+  DIRECT LINE
+  Add Question Text field Character limit TBD
+  BUILDING NUMBER
+  Add Question Text Field Charecter limit TBD
+  ROAD
+  Add Question Text field Character limit TBD
+  CITY / TOWN
+  Add Question Text field Character limit TBD
+  COUNTRY
+  Add Question Text field Character limit TBD
+  CODE
+  Add Question Text field Character limit TBD
+  NAME
+  Add Question Text field Character limit TBD
+  WEBSITE (URL) 
+  Add Question Text field Character limit TBD
+  LINK TO WHITEPAPER (URL)
+  Add Question Text field Character limit TBD
+  ISSUER
+  Add Question Text field Character limit TBD
+  BRIEF DESCRIPTION (OPTIONAL)
+ Save Page
+
+Add Page (one page default) 
+Edit Title
+Title [Page 2. White Paper Details]
+  Add Question Multiple Choice - Radio Buttons Select One
+   Questions:  Is the whitepaper dated?  
+   y or n   
+   If no 
+   date whitepaper and proceed   
+   Add Question Multiple Choice - Radio Buttons Select One
+   Does the whitepaper contain a non-technical introductory summary?  
+   y or n   
+   If not provide summary and proceed.
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+
+
+    
+ 
+
