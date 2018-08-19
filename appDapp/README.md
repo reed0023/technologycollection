@@ -2,7 +2,7 @@
 
 ### Summary:
 
-The following documentation serves as a first draft for development bounty, as referenced in the Blockternship Grant. Deliverables, dates, features, and functions are subject to change, based on the needs of the DAO. Please contact @reed0023, @tomtom87, or @jtianelli with any questions or concerns. 
+The following documentation serves as a first draft for development of an application for an Innovative Technological Agreement to comply with proposed regulation aimed at assiting new technologies in registering a new type of digital legal personality with its own set of inherent rights including but not limited to the right to exist, own assets, conduct business, enage with banks etc. Deliverables, dates, features, and functions are subject to change, based on the needs of the dApp. Please contact @reed0023, @tomtom87, or @jtianelli with any questions or concerns. 
 
 #### Name: 
 
@@ -14,16 +14,12 @@ The Technology Collection
 
 #### Abstract:
 
-AppdApp is a modular dApp that allows DAOs to create their own Question and Answer Applications (use cases may include, but are not limited to: contracts, registrations, applications, surveys, grants, etc.). Once a DAO’s Application is published, it may be filled out by the Organization. Completed Applications are converted into Smart Contracts and deployed to the Ethereum Virtual Machine. 
+AppdApp is a modular dApp that allows DAOs or other Technology Arrangements to create their own Question and Answer Applications (use cases may include, but are not limited to: contracts, registrations, applications, surveys, grants, etc.). Once a DAO’s Application is published, it may be filled out by the Organization. Completed Applications are converted into Smart Contracts and deployed to the Ethereum Virtual Machine. The specific use case of appdApp for our organization will be to create the ability described in the summary with regards to innovative tech: the ability to register as an innovative technology arrangement in Malta an EU Member State.
 
 Developer Needs:
 
  - React Components for Application Creation UI
  - UX Considerations WIP
-
-Total Bounty Offered: 
-
- - 2 ETH
 
 UX Benchmark: 
 
