@@ -146,14 +146,41 @@ Section 1 - White Paper Compliance
  *Note* Organization and persons which earn money, assets or value in any jurisdiction pay taxes.  
   y or n
   If no include tax structure for the organiztion.
-  
-  Does the whitepaper state the period for which the offer is open or available?
+    
+  Does the whitepaper list the known or anticipated Euro exchange rate to the token or virtual financial asset?
   y or n
-  if n include token sale duration or other offer type timeframe
+  If no include information on valuation in Euros.
   
+  Is there a detailed description of the underlying protocol’s interoperability with other protocols?
+  y or n
+  If not include base protocol and associate protocol information.
   
-  
+ Is there any  restrictions on the free transferability of the virtual financial assets being offered and the DLT exchange/s on which they
+ may be traded, to the extent known by the issuer?
+ y or n
+ If yes explain any restrictions.
+ 
+ Is there a detailed description of the methods of payment; the participants of any potnetial financial asset offering will be able to get their contribution
+ back if the soft cap is not reached at the end of the offering and detailed description of the refund mechanism, including the expected time-line of when
+ such refund will be completed?
+ y or n
+ If no explain investor return procedures for projects wghich do not reach their soft cap.
+ 
+ Is there a detailed description of the risks associated with the virtual financial assets and the investment therein?
+ y or n
+ If no include detailed description of risks associated with the potential investment or virtual financial asset.
 
+
+
+
+
+
+
+
+
+  
+  
+  
 
 
 
