@@ -151,10 +151,25 @@ Section 1 - White Paper Compliance
   y or n
   If no include information on valuation in Euros.
   
-  Is there a detailed description of the underlying protocol’s interoperability with other protocols?
+  Is there a detailed description of the smart contract?
+  y or n
+  if no include detailed description of the smart contract.
+  
+  Is there a detailed description of the the adopted standards, as well as that of any underlying
+  protocol/s,functionality/-ies and associated operational costs or gas fees?
+  y or n
+  If no include detailed description of standards and protocols and their costs or gas fees.
+ 
+   Is there a detailed description of the underlying protocol’s interoperability with other protocols?
   y or n
   If not include base protocol and associate protocol information.
   
+ 
+ 
+ 
+ 
+ 
+ 
  Is there any  restrictions on the free transferability of the virtual financial assets being offered and the DLT exchange/s on which they
  may be traded, to the extent known by the issuer?
  y or n
@@ -169,6 +184,15 @@ Section 1 - White Paper Compliance
  Is there a detailed description of the risks associated with the virtual financial assets and the investment therein?
  y or n
  If no include detailed description of risks associated with the potential investment or virtual financial asset.
+ 
+ Are there any right of pre-emption associated with the offering or any other offer of first rights to paerticipate in or acquire something?
+ y or n
+ If yes follow up question
+ Is the procedure clearly laid out for the right of pre-emption offered?
+ y or n
+ If no include procedure associated with special rights to participate or acquire first offered in the whtiepaper.
+ 
+ 
 
 
 
