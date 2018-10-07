@@ -41,6 +41,13 @@ Section 1 - White Paper Compliance
   y or n
   If not include purpose in white paper and proceed.
   
+  Are there any activities or actions taken by the prospective ITA that take place off the blockchain listed in the white paper?  
+  y or n  
+  If no follow up question  
+  Do any activities take place off ot the blockchain?  
+  y or n
+  if yes explain procedure and persons or organizations responsible for procedures which occur off of the blockchain.
+
   Is there technical a description of the protocol, platform and/or functionality of the virtual token or virtual financial asset.
   y or n
   If not include technical description and proceed.
@@ -95,13 +102,6 @@ Section 1 - White Paper Compliance
   y or n
   If no include description of protocol security measure and methods for protecting integrity of the protocol.
   
-  Are there any activities that take place off the blockchain listed in the white paper?
-  y or n
-  If no follow up question
-  Do any activities take place off ot the blockchain?
-  y or n 
-  if yes explain procedure and persons or organizations responsible for procedures which occur off of the blockchain.
-  
   Does the white paper include a detailed description of the life cycle of the initial virtual financial asset offering and
   the proposed project?
   y or n
@@ -146,14 +146,77 @@ Section 1 - White Paper Compliance
  *Note* Organization and persons which earn money, assets or value in any jurisdiction pay taxes.  
   y or n
   If no include tax structure for the organiztion.
-  
-  Does the whitepaper state the period for which the offer is open or available?
+    
+  Does the whitepaper list the known or anticipated Euro exchange rate to the token or virtual financial asset?
   y or n
-  if n include token sale duration or other offer type timeframe
+  If no include information on valuation in Euros.
   
+  Is there a detailed description of the smart contract?
+  y or n
+  if no include detailed description of the smart contract.
   
+  Is there a detailed description of the the adopted standards, as well as that of any underlying
+  protocol/s,functionality/-ies and associated operational costs or gas fees?
+  y or n
+  If no include detailed description of standards and protocols and their costs or gas fees.
+ 
+   Is there a detailed description of the underlying protocol’s interoperability with other protocols?
+  y or n
+  If not include base protocol and associate protocol information.
   
+  Is the name of the Registered System's Auditor, and link to the information provided by the Registered System's Auditor 
+  included in the whitepaper?
+  y or n
+  If not include link to audit documentation as provided by a registered systems auditor.
+  
+  Does the whitepaper include a list of any applicable restrictions either by declaration or embedded in the smart contract/s 
+  deployed, if any, including any investment and/or geographical restrictions?
+  y or n
+  If no include list of applicable restriction to the any offerings.
+  
+  Does the whitepaper describe any methods or program administrators, agents, or others use to obtain data and verify occurrences
+  from smart contracts (also known as ‘oracles’) used and detailed description of their characteristics and functionality thereof?
+  y or no
+ 
+  Is there any restrictions on the free transferability of the virtual financial assets being offered and the DLT exchange/s on which they
+  may be traded, to the extent known by the issuer?
+  y or n
+  If yes explain any restrictions.
+ 
+ Is there a detailed description of the methods of payment; the participants of any potnetial financial asset offering will be able to get their contribution
+ back if the soft cap is not reached at the end of the offering and detailed description of the refund mechanism, including the expected time-line of when
+ such refund will be completed?
+ y or n
+ If no explain investor return procedures for projects wghich do not reach their soft cap.
+ 
+ Is there a detailed description of the risks associated with the virtual financial assets and the investment therein?
+ y or n
+ If no include detailed description of risks associated with the potential investment or virtual financial asset.
+ 
+ Are there any right of pre-emption associated with the offering or any other offer of first rights to paerticipate in or acquire something?
+ y or n
+ If yes follow up question
+ Is the procedure clearly laid out for the right of pre-emption offered?
+ y or n
+ If no include procedure associated with special rights to participate or acquire first offered in the whtiepaper.
+ 
+ Is there a description and clear terms of any bonuses or discounts being offered?
+ y or n
+ If no include description of any bonuses or discounts being offered and the terms.
+ 
+ 
 
+
+
+
+
+
+
+
+
+  
+  
+  
 
 
 
